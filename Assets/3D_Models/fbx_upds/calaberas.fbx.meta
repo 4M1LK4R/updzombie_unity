@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 532a330000743574f8f148d27116efb7
+timeCreated: 1509746969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body_2
+    100004: //RootNode
+    100006: grab_location
+    100008: grab_location_2
+    100010: LKT_Coffin1_Sk
+    100012: LKT_Coffin1_St
+    100014: LKT_Coffin2_Sk
+    100016: LKT_Coffin2_St
+    100018: LKT_Coffin_St
+    100020: LKT_Coffin_St_1
+    100022: LKT_CoffinDisc_St
+    100024: LKT_CoffinDisc_St_2
+    100026: Piel
+    100028: Piel_2
+    100030: position_locator
+    100032: position_locator_2
+    100034: Reference
+    100036: Reference_2
+    100038: Root
+    100040: Root_2
+    100042: Scale
+    100044: Scale_2
+    400000: Body
+    400002: Body_2
+    400004: //RootNode
+    400006: grab_location
+    400008: grab_location_2
+    400010: LKT_Coffin1_Sk
+    400012: LKT_Coffin1_St
+    400014: LKT_Coffin2_Sk
+    400016: LKT_Coffin2_St
+    400018: LKT_Coffin_St
+    400020: LKT_Coffin_St_1
+    400022: LKT_CoffinDisc_St
+    400024: LKT_CoffinDisc_St_2
+    400026: Piel
+    400028: Piel_2
+    400030: position_locator
+    400032: position_locator_2
+    400034: Reference
+    400036: Reference_2
+    400038: Root
+    400040: Root_2
+    400042: Scale
+    400044: Scale_2
+    2300000: LKT_Coffin1_St
+    2300002: LKT_Coffin2_St
+    2300004: LKT_Coffin_St
+    2300006: LKT_Coffin_St_1
+    2300008: LKT_CoffinDisc_St
+    2300010: LKT_CoffinDisc_St_2
+    3300000: LKT_Coffin1_St
+    3300002: LKT_Coffin2_St
+    3300004: LKT_Coffin_St
+    3300006: LKT_Coffin_St_1
+    3300008: LKT_CoffinDisc_St
+    3300010: LKT_CoffinDisc_St_2
+    4300000: LKT_Coffin_St_1
+    4300002: LKT_CoffinDisc_St
+    4300004: LKT_Coffin1_St
+    4300006: LKT_Coffin2_Sk
+    4300008: LKT_Coffin_St
+    4300010: LKT_Coffin2_St
+    4300012: LKT_CoffinDisc_St_2
+    4300014: LKT_Coffin1_Sk
+    9500000: //RootNode
+    13700000: LKT_Coffin1_Sk
+    13700002: LKT_Coffin2_Sk
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
